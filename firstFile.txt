@@ -1,1 +1,3 @@
 hello firstFiel in myGitHup2 .
+
+I will adding some text into file .
